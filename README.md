@@ -1,4 +1,4 @@
-# OSS Audit - 24BAI10085
+# OSS Audit - PROJECT
 
 ## Student Details
 - **Name**: ADITI RAJ
@@ -37,5 +37,16 @@ An interactive script that generates a personalized Open Source Manifesto. It as
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/[your-username]/oss-audit-24BAI10085
-cd oss-audit-24BAI10085
+git clone https://github.com/[your-username]/oss-audit-PROJECT
+cd oss-audit-PROJECT
+▶️ Execution
+🔹 Run System Identity Script
+./system_identity.sh
+🔹 Run Package Audit
+./package_audit.sh python
+🔹 Run Disk Permission Auditor
+./disk_permission_auditor.sh
+🔹 Run OpenSSL Analyzer
+./openssl_analyzer.sh
+🔹 Run Manifesto Generator
+./manifesto_generator.sh
