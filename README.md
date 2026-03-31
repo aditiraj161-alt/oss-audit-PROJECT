@@ -35,7 +35,7 @@ An interactive script that generates a personalized Open Source Manifesto. It as
 
 ### Setup Instructions
 
-1. **Clone the repository**
+ **Clone the repository**
 ```bash
 git clone https://github.com/[your-username]/oss-audit-PROJECT
 cd oss-audit-PROJECT
